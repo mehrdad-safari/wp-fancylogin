@@ -6,7 +6,7 @@ After Downloding Extract Folder to your wordpress plugins folder and enable it f
 
  
 ## Screenshot
-![screenshot](https://github.com/mehrdad-safari/wp-fancylogin/blob/master/assets/img/yeti.svg)
+![screenshot](https://github.com/mehrdad-safari/wp-fancylogin/blob/master/screenshots/screen.gif)
 
 ## Plugin Features:
 * Works on latest version of wordpress (v5.2.4)
